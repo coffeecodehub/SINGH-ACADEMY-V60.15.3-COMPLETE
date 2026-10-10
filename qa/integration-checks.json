@@ -1,6 +1,6 @@
 {
   "version": "60.15.3",
-  "startedAt": "2026-10-09T18:07:00.877Z",
+  "startedAt": "2026-10-10T10:55:57.533Z",
   "status": "passed",
   "scope": "Isolated real MongoDB transactions and DB-backed browser tests. Provider/SMTP fixtures are not external acceptance.",
   "handoverReady": false,
@@ -34,5 +34,5 @@
       "status": "passed"
     }
   ],
-  "finishedAt": "2026-10-09T18:09:15.110Z"
+  "finishedAt": "2026-10-10T10:57:44.959Z"
 }

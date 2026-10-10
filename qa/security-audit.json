@@ -1,8 +1,8 @@
 {
   "version": "60.15.3",
   "node": "24.18.0",
-  "startedAt": "2026-10-09T08:21:11.221Z",
-  "finishedAt": "2026-10-09T08:21:19.614Z",
+  "startedAt": "2026-10-10T10:51:25.699Z",
+  "finishedAt": "2026-10-10T10:51:33.763Z",
   "status": "passed",
   "scope": "Known vulnerabilities reported by the configured npm registry, at this time, for these lockfile hashes. Not a penetration test or a guarantee against unknown flaws.",
   "scans": [

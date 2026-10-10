@@ -3,9 +3,9 @@
   "node": "24.18.0",
   "platform": "win32",
   "arch": "x64",
-  "startedAt": "2026-10-09T08:19:16.075Z",
-  "finishedAt": "2026-10-09T08:27:47.682Z",
-  "status": "passed",
+  "startedAt": "2026-10-10T10:33:29.252Z",
+  "finishedAt": "2026-10-10T10:37:33.109Z",
+  "status": "failed",
   "scope": "LOCAL gates on the recorded Node runtime; fixture payments are not actual provider transactions",
   "handoverReady": false,
   "notCovered": [
@@ -36,23 +36,24 @@
     },
     {
       "name": "Unit/reliability, protected UI, TypeScript, production build and FOUR complete dependency audits",
-      "status": "passed"
+      "status": "failed",
+      "error": "npm run verify failed (1). Stop and resolve this error before deployment."
     },
     {
       "name": "Install project Chromium",
-      "status": "passed"
+      "status": "not_run"
     },
     {
       "name": "Full actual Next browser suite including auth, free course, certificate and payment fixtures",
-      "status": "passed"
+      "status": "not_run"
     },
     {
       "name": "Payment configuration (no charge)",
-      "status": "passed"
+      "status": "not_run"
     },
     {
       "name": "SMTP connection/authentication (not inbox delivery)",
-      "status": "passed"
+      "status": "not_run"
     }
   ]
 }

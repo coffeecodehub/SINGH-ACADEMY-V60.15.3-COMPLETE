@@ -1,7 +1,7 @@
 {
   "version": "60.15.3",
   "node": "24.18.0",
-  "recordedAt": "2026-10-09T08:21:07.944Z",
+  "recordedAt": "2026-10-10T10:51:21.796Z",
   "status": "passed",
   "scope": "Installed Sharp/native-library identity and raster smoke; not an online vulnerability scan",
   "checks": [
